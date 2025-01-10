@@ -1,0 +1,53 @@
+.head1{
+    background-color: rgb(138, 15, 157);
+    display: flex;
+    height: 90px;
+    
+}
+.nav1{
+    margin-left: 50px;
+}
+
+.nav2{
+    margin-left:1050px;
+    padding-top: 25px;
+    word-spacing: 10px;
+}
+h1{
+    color: rgb(39, 82, 212);
+
+}
+#Header{
+    color:white !important;
+    
+
+}
+.link{color:white !important;
+    text-align: right;
+    
+    }
+    .link{text-align: right !important;
+    }
+
+#see_projects{
+    color: white ; 
+
+
+}
+#btn_see_project{
+    background-color:rgb(124,22,164); 
+    border-radius: 5px;
+}
+.text1{
+    background-color: grey;
+}
+
+.myclass{
+    color: rebeccapurple;
+}
+#Image{
+    text-align: center;
+}
+
+.sec{
+text-align: center;}
