@@ -195,5 +195,22 @@ li {
     color: #f7f4f4;
     text-align: center;
     margin-top: 50px;
+
+}
+footer{
+    height: 200px;
+    background-color: #010d1a;
+}
+.f-text{
+    color: #cccccc;
+    display:flex;
+    justify-content: space-evenly;
+
+    
+}
+.footer p{
+    margin-top: 80px;
+    margin-inline: center;
+    font-size: 10px;
     
 }
