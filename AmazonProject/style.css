@@ -181,16 +181,19 @@ li {
 .panel4{
     height: 200px;
     background-color: #010d1a;
-    justify-content: space-evenly;
+    flex-wrap: wrap;
+    flex-direction: row;
+    align-content: stretch;
+    align-items: flex-end;
     display: inline-flex;
     color: white;
     width: 94.5rem;
     text-align: center;
-    
-
+    justify-content: space-evenly;
 }
 .p-text{
     color: #f7f4f4;
     text-align: center;
-    margin-top: 100px;
+    margin-top: 50px;
+    
 }
